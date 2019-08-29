@@ -12,14 +12,10 @@ You can clone the code and run it on your local.
 * Open your terminal
 * clone the code: 
 
-			$ 
+		$ git@github.com:m-pereira/final_exercise_ruby_course.git
 
-* run bundle:
+### Now you can run the code, runing: 
 
-			$ bundle install
-
-Now you can run the code, runing: 
-
-			$ ruby final_exercise.rb
+		$ ruby final_exercise.rb
 
 Enjoy it!
